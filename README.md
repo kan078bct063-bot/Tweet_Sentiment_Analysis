@@ -132,15 +132,3 @@ Each prediction includes confidence scores for all three classes.
 
 
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-Created for Twitter Airline Sentiment Analysis Project
-
----
-
-**Note**: This model is trained specifically on airline-related tweets. Performance may vary on other domains.
-
